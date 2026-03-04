@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Mathieu 👋
 
+Backend developer with 7 years of experience building production systems, mostly **Elixir**.
+
+
+**Currently:** Open to work — Backend developer roles, Paris or remotoe
 <!--
 **supermaciz/supermaciz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
